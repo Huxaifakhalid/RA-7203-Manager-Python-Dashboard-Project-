@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Receiver",
+    "ip": "10.21.14.253",
+    "type": "Receiver"
+  },
+  {
+    "name": "Transmitter",
+    "ip": "10.21.14.31",
+    "type": "Transmitter"
+  }
+]
